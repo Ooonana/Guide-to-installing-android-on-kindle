@@ -10,5 +10,13 @@ Important2: Do NOT try this if your device doesn't support. The device listed he
 
 Note: This is a fork project. Original project link: [kdroid.club](http://kdroid.club/)
 
-Instructions 
-1. Jailbreak your kindle. Use winterbreak
+
+
+Instructions
+
+1.Preparing 
+
+1. Jailbreak your kindle. I personally used [winterbreak](https://kindlemodding.org/jailbreaking/WinterBreak/)
+2. Set up mrpi and install Kual the process is included in the winterbreak site
+
+3. Go to kpw3.20230303.zip
