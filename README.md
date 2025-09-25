@@ -80,7 +80,10 @@ C. Write Z05 U-Boot (bootloader)
 
 # 3.Setting up.
 
-1.The language will be chinese. So go to settings, (click gear icon) and sc
+1. The language will be chinese. So go to settings, (click gear icon) and select 语言. Change language to English.
+2. In the below, touch □. you will see bunch of settings. on the top, select other, select jailbreak button. then select e ink and select power off.
+Yeah, you will see two power off button. select the right side. The message will pop up in chinese. Select the right one.
+3. When the screen goes blank, press power button for one sec. the kindle will now boot to Kindle OS.
 
 
 
