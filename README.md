@@ -14,7 +14,7 @@ Note: This is a fork project. Original project link: [kdroid.club](http://kdroid
 
 Instructions
 
-I am gonna assume the device is pw3, so the file name should be kpw3.20230303.zip
+I am gonna assume the device is pw3, so the file name should be kpw3.20230303.zip (For easier explanation)
 
 ## 1.Preparing 
 
