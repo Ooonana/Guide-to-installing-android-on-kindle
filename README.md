@@ -23,7 +23,7 @@ Note: If you had already jailbreaked your kindle and have kual, skip 1 and 2. Al
 1. Jailbreak your Kindle. I personally used [winterbreak](https://kindlemodding.org/jailbreaking/WinterBreak/)
 2. Set up mrpi and install Kual. The process is included in the winterbreak site
 
-3. Download the Kdroid.zip file on the release page. unzip it.
+3. Download the appropriate .zip matching your device file on the release page. unzip it.
 
 (If you get a virus detection error, your computer denys you, follow these instructions: make an empty folder. then open virus settings -> exclusion -> add exclusion folder and select the folder you created. Move the zip file to the folder you created. unzip it from there.)
 
