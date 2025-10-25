@@ -68,6 +68,7 @@ Third, Install Send anywhere in your phone via appstore or playstore. Then using
 3. bvnc (Used to use kindle as a monitor)
 4. Terminal app
 
+*will update the list in the future*
 
 # Problem solveing guide
 1. Computer process interrupted it. Kindle boots but Android isnt booting. Only kindle os boots. (+Kindle os is 1018mb. But no android)
