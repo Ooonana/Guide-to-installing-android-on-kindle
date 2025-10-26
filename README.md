@@ -10,7 +10,8 @@ Important 2: Do NOT try this if your device doesn't support it. The device liste
 pw2, pw3, voyage, basic 7, basic 8, oasis 1, kindleXmigu 
 Note: This is a fork project. Original project link: [kdroid.club](http://kdroid.club/)
 
-
+edit: kdroid club website seems to removed the link to the original files
+go [here ](http://kdroid.club/firmtest/)
 
 Instructions
 
