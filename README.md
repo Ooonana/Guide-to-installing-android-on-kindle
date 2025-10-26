@@ -71,6 +71,19 @@ Third, Install Send anywhere in your phone via appstore or playstore. Then using
 
 *will update the list in the future*
 
+
+# Watching YouTube
+There are two ways to watch youtube on kindle. 
+1. Skytube app.
+ Instructions: Open the app. done!
+ pros: Simple
+ cons: very laggy and video plays in slomo so the vid is unwatchable.
+3. Download via skytube and play using vlc player
+ Instructions: Open Skytube and click three dot on the vid you want to watch. Press download. Open file explorer and go to movies folder. click on the file. done!
+ pros: Works just like an lcd screen, most watchable video play.
+ cons: need lots of steps and takes lot of effort to watch one vid...
+
+
 # Problem solveing guide
 1. Computer process interrupted it. Kindle boots but Android isnt booting. Only kindle os boots. (+Kindle os is 1018mb. But no android)
 ->Jailbreak your kindle normally by using winterbreak, etc. Follow installation step again. And try again.
