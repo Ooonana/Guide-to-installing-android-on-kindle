@@ -77,11 +77,11 @@ There are two ways to watch youtube on kindle.
 1. Skytube app.
  Instructions: Open the app. done!
  pros: Simple
- cons: very laggy and video plays in slomo so the vid is unwatchable.
+ cons: very laggy and video plays in slomo so the vid is unwatchable. plus no sound
 3. Download via skytube and play using vlc player
  Instructions: Open Skytube and click three dot on the vid you want to watch. Press download. Open file explorer and go to movies folder. click on the file. done!
  pros: Works just like an lcd screen, most watchable video play.
- cons: need lots of steps and takes lot of effort to watch one vid...
+ cons: no sound and need lots of steps and takes lot of effort to watch one vid...
 
 
 # Problem solveing guide
