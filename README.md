@@ -12,7 +12,7 @@ Note: This is a fork project. Original project link: [kdroid.club](http://kdroid
 
 edit: kdroid club website seems to removed the link to the original files
 go [here ](http://kdroid.club/firmtest/)
-
+costs 50 (chinese) yen
 Instructions
 
 I am gonna assume the device is pw3, so the file name should be kpw3.20230303.zip (For easier explanation)
