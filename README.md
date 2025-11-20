@@ -44,7 +44,7 @@ In your kindle, open kual, click FlashAndroid. Your kindle should reboot. Then t
 
 (If your kindle isnt detected/the start.exe dosent show this and show one line, force reboot your kindle by pressing button for long time)
 
-3. Enter 8 and press enter. 8 for dual boot. For more explanation,  see bellow at the Useful section. The system will do it's thing. While running do NOT try to unplug, close the program, turn off computer, force reboot kindle. This may brick your kindle. The process might take up to 5 minutes. When the process ends, kindle will reboot itself. And you will see your kindle displaying CRACKDROID. 
+3. Enter 8 and press enter. 8 for dual boot. For more explanation,  see bellow at the Useful section. The system will do it's thing. While running do NOT try to unplug, close the program, turn off computer, force reboot kindle. This may brick your kindle. The process might take up to 5 minutes. When the process ends, kindle will reboot itself. And you will see your kindle displaying CRACKDROID. (It is expected to being it does not respond but the led light below blinks rapidly for a few minutes) 
 
 # 3. Setting up. 
 
