@@ -130,7 +130,7 @@ Translation:
 6. Switch to Android system only
 7. Switch to Kindle (native) system only
 8. Switch to dual system (Android + Kindle)
-9. Reset Android system
+9. Reset Android system 
 A. Reset Kindle (native) system
 B. Write authorization data
 C. Write Z05 U-Boot (bootloader)
