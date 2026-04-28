@@ -8,6 +8,7 @@ In XDA, there are people who translated this project first. but it is outdated a
 Important: I did not make this. This is just a guide to the project. original developer is ygjsz. you can find him [here](https://space.bilibili.com/33072537/upload/opus) and [here](https://github.com/ygjsz)
 Important 2: Do NOT try this if your device doesn't support it. The device listed here is
 pw2, pw3, voyage, basic 7, basic 8, oasis 1, kindleXmigu 
+
 Note: This is a fork project. Original project link: [kdroid.club](http://kdroid.club/)
 
 edit: kdroid club website seems to removed the link to the original files
