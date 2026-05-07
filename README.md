@@ -135,3 +135,15 @@ A. Reset Kindle (native) system
 B. Write authorization data
 C. Write Z05 U-Boot (bootloader)
 0. Exit
+
+
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=Ooonana%2FGuide-to-installing-android-on-kindle&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=Ooonana/Guide-to-installing-android-on-kindle&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=Ooonana/Guide-to-installing-android-on-kindle&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=Ooonana/Guide-to-installing-android-on-kindle&type=date&legend=top-left" />
+ </picture>
+</a>
